@@ -1,5 +1,5 @@
 # Custom 3D Printer start/end G-code for Cura
-<img src="Cura_Logo.png" width="200" height="200">
+<!-- <img src="Cura_Logo.png" width="200" height="200"> -->
 
 ## Table of Contents
 * [General Info](#general-info)
